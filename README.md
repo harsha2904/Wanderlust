@@ -13,7 +13,7 @@ Wanderlust is a travel and adventure web application designed to help users disc
 
 ## Live Demo
 
-Check out the live site here: [Wanderlust Live](https://wanderlust-8hvc.onrender.com)
+Check out the live site here: [Wanderlust Live](https://wanderlust-8hvc.onrender.com/listings)
 
 ## Getting Started
 
